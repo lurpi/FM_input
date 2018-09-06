@@ -1,0 +1,135 @@
+Gina - TIM-Datei
+#TIME_STEPPING
+  $PCS_TYPE
+    LIQUID_FLOW
+  $TIME_STEPS
+   2 0.5
+   10 2.0
+   10 0.2
+   10 7.5
+   10 0.2
+   10 5.5
+   10 0.2
+   10 5.4
+   10 0.2
+   10 5.2
+   10 0.2
+   10 4.8
+   10 0.2
+   10 10.1
+   10 0.2
+   10 3.1
+   10 0.2
+   2 4.5
+   8 15.0
+   5 45.0
+   6 1550.
+  $TIME_END
+    150000000
+  $TIME_START
+    0.0
+#TIME_STEPPING
+  $PCS_TYPE
+    DEFORMATION
+  $TIME_STEPS
+   2 0.5
+   10 2.0
+   10 0.2
+   10 7.5
+   10 0.2
+   10 5.5
+   10 0.2
+   10 5.4
+   10 0.2
+   10 5.2
+   10 0.2
+   10 4.8
+   10 0.2
+   10 10.1
+   10 0.2
+   10 3.1
+   10 0.2
+   2 4.5
+   8 15.0
+   5 45.0
+   6 1550.
+  $TIME_END
+    150000000
+  $TIME_START
+    0.0
+#STOP
+
+
+
+Gina - TIM-Datei
+#TIME_STEPPING
+  $PCS_TYPE
+    DEFORMATION
+  $TIME_STEPS
+10 0.45
+15 0.9
+15 1.8
+10 2.7
+12 4.5
+11 9
+10 18
+10 36
+10 18
+10 36
+  $TIME_END
+  150000000
+  $TIME_START
+  0.0
+#TIME_STEPPING
+  $PCS_TYPE
+  LIQUID_FLOW 
+  $TIME_STEPS
+10 0.45
+15 0.9
+15 1.8
+10 2.7
+12 4.5
+11 9
+10 18
+10 36
+10 18
+10 36
+  $TIME_END
+  150000000
+  $TIME_START
+  0.0 
+#STOP
+
+
+  0.0
+
+ 5 4.0
+ 2 1.
+ 5 15
+ 2 1.
+ 5 11.
+ 2 1.
+ 2 27
+ 2 1.
+ 2 26.
+ 2 1.
+ 2 24
+ 2 1.5
+ 2 50.
+ 2 1.
+ 2 15.5
+ 2 1.
+ 1 9.
+ 4 30.
+ 5 45.0
+ 6 1550.
+
+#TIME_STEPPING
+  $PCS_TYPE
+  DEFORMATION
+  $TIME_STEPS
+  20 50  
+  $TIME_END
+  1000
+  $TIME_START
+  0.0
